@@ -40,11 +40,11 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mahbub-Hasan&card_width=550)](https://github.com/Md-Mahbub-Hasan)
 
-[programming]: https://www.programming-hero.com/
-[website]: https://shadin.netlify.app/
-[twitter]: https://shadin.netlify.app/
-[linkedin]: https://shadin.netlify.app/
-[webdevplaylist]: https://shadin.netlify.app/
-[jsplaylist]: https://shadin.netlify.app/
-[cssplaylist]: https://shadin.netlify.app/
-[reactplaylist]: https://shadin.netlify.app/
+[programming]: https://creative-agency-32149.web.app/
+[website]: https://volunteer-network-a77e6.web.app/
+[twitter]: https://travle-guru-mahbub.firebaseapp.com/
+[linkedin]: https://festive-tesla-f6ce0f.netlify.app/
+[webdevplaylist]: https://md-mahbub-hasan.github.io/hard-rock-Assignment/
+[jsplaylist]: https://md-mahbub-hasan.github.io/hard-rock-Assignment/
+[cssplaylist]: https://volunteer-network-a77e6.web.app/
+[reactplaylist]: https://creative-agency-32149.web.app/

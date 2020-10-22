@@ -1,4 +1,3 @@
-##  [<img align="center"  width="16%" alt="MERN" src="https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg" />][reactplaylist]
 ### Hi there 👋
 ## I'm Mahbub Hasan 👋
 
@@ -8,6 +7,7 @@
 - ⚔  Keyboard Is MY Weapon 😏
 - 🥰 Perfection Is My Habit 🌍
 - ⚡ Fun fact: ... Love to travel on vacation 🥰
+- [<img align="center"  width="5%" alt="MERN" src="https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg" />][reactplaylist]
 -->
 
 ### Connect with me:

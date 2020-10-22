@@ -42,8 +42,4 @@
 
 <br />
 <br />
-<img width="550px" alt="Mahbub Hasan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Md-Mahbub-Hasan&show_icons=true"/>
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mahbub-Hasan&card_width=550)](https://github.com/Md-Mahbub-Hasan)
-
 

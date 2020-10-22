@@ -15,7 +15,6 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/mdmahbub.ahmed.53) 
 
 <br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -30,11 +29,6 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="expressjs" alt="expressjs" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" />][webdevplaylist]
 
-<br />
-
-<br />
-
-<br />
 <br />
 
 <img width="550px" alt="Mahbub Hasan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Md-Mahbub-Hasan&show_icons=true"/>

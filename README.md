@@ -7,7 +7,6 @@
 - ⚔  Keyboard Is MY Weapon 😏
 - 🥰 Perfection Is My Habit 🌍
 - ⚡ Fun fact: ... Love to travel on vacation 🥰
-- [<img align="center"  width="5%" alt="MERN" src="https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg" />][reactplaylist]
 -->
 
 ### Connect with me:
@@ -46,4 +45,4 @@
 [cssplaylist]: https://volunteer-network-a77e6.web.app/
 [reactplaylist]: https://creative-agency-32149.web.app/
 
-
+- [<img align="center"  width="25%" alt="MERN" src="https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg" />][reactplaylist]

@@ -1,6 +1,5 @@
-### Hi there 👋
-## I'm Mahbub Hasan 👋
-# MERN / Full Stack Developer.
+### Hi there. I'm Mahbub Hasan 👋
+## MERN / Full Stack Developer.
 
 - 🌱 I’m currently learning ... everything 🤣
 - ❤️ Technology Is My Love 😍

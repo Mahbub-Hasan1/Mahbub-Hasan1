@@ -52,4 +52,4 @@
 [reactplaylist]: https://creative-agency-32149.web.app/
 
 
-[<img alt="mahbub hasan" src="https://i.imgur.com/zcy4cQ8.png" />]
+[<img alt="mahbub hasan" width="550px" src="https://i.imgur.com/zcy4cQ8.png" />]

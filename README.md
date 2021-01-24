@@ -38,16 +38,16 @@
 <br/>
 
 <br/>
-<img width="550px" alt="Mahbub Hasan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Md-Mahbub-Hasan&show_icons=true"/>
+<img width="550px" alt="Mahbub Hasan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Mahbub-Hasan1&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mahbub-Hasan&card_width=550)](https://github.com/Md-Mahbub-Hasan)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub-Hasan1&card_width=550)](https://github.com/Mahbub-Hasan1)
 
 [programming]: https://creative-agency-32149.web.app/
 [website]: https://volunteer-network-a77e6.web.app/
 [twitter]: https://travle-guru-mahbub.firebaseapp.com/
 [linkedin]: https://festive-tesla-f6ce0f.netlify.app/
-[webdevplaylist]: https://md-mahbub-hasan.github.io/hard-rock-Assignment/
-[jsplaylist]: https://md-mahbub-hasan.github.io/hard-rock-Assignment/
+[webdevplaylist]: https://Mahbub-Hasan1.github.io/hard-rock-Assignment/
+[jsplaylist]: https://Mahbub-Hasan1.github.io/hard-rock-Assignment/
 [cssplaylist]: https://volunteer-network-a77e6.web.app/
 [reactplaylist]: https://creative-agency-32149.web.app/
 

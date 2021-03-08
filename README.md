@@ -23,6 +23,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="nextJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/750/1*T0a-QUNewZDsyx6Bkinfew.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
@@ -31,7 +32,6 @@
 [<img align="left" alt="expressjs" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" />][webdevplaylist]
 [<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />][webdevplaylist]
 [<img align="left" alt="heroku" width="26px" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" />][webdevplaylist]
-[<img align="left" alt="nextJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />][webdevplaylist]
 [<img align="left" alt="netlify" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEAt7-u6GJMlw/company-logo_200_200/0?e=2159024400&v=beta&t=4CYxl7atZ0Yn9lJko6w02yIywYQiLr9hrQcH3cF4GDI" />][webdevplaylist]
 
 <br />

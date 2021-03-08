@@ -31,7 +31,7 @@
 [<img align="left" alt="expressjs" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" />][webdevplaylist]
 [<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />][webdevplaylist]
 [<img align="left" alt="heroku" width="26px" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" />][webdevplaylist]
-[<img align="left" alt="nextJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />][webdevplaylist]
+[<img align="left" alt="nextJS" width="26px" src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67" />][webdevplaylist]
 [<img align="left" alt="netlify" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEAt7-u6GJMlw/company-logo_200_200/0?e=2159024400&v=beta&t=4CYxl7atZ0Yn9lJko6w02yIywYQiLr9hrQcH3cF4GDI" />][webdevplaylist]
 
 <br />

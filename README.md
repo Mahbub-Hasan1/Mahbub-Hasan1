@@ -22,6 +22,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="TypeScript" width="26px" src="https://i.imgur.com/0ANFz21.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://ionicframework.com/docs/assets/icons/logo-react-icon.png" />][reactplaylist]
 [<img align="left" alt="nextJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
